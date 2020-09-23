@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<NPC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>pontus</name>
+  <age>436</age>
+  <greeting>Hello</greeting>
+</NPC>
